@@ -7,4 +7,4 @@
 
 Meta Preudo Labels pytorch: https://github.com/kekmodel/MPL-pytorch
 
-Основывается на коде: https://github.com/zhongyy/Face-Transformer
+Код чтения датасета и валидации взят из https://github.com/zhongyy/Face-Transformer
